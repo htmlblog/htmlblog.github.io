@@ -1,7 +1,9 @@
 ---
+title: Трамп победил на выборах
+date: 2016-11-10 00:00:00 Z
+categories:
+- news
 layout: post
-title:  Трамп победил на выборах
-category: news 
 description: Короткое описание новости
 ---
 
