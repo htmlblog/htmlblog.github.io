@@ -1,0 +1,8 @@
+<head>
+	<link href="http://localhost:4000/assets/bootstrap.min.css" rel="stylesheet">
+	<link href="http://localhost:4000/assets/blog.css" rel="stylesheet">
+	<link href="http://localhost:4000/assets/breadcrumb-style.css" rel="stylesheet">
+	
+	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+</head>
