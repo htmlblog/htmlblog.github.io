@@ -18,7 +18,7 @@ markdown: kramdown
 gems:
 - jekyll-paginate
 - jekyll-sitemap
-paginate: 5
+paginate: 7
 exclude:
 - Gemfile
 - Gemfile.lock
