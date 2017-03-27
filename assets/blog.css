@@ -82,7 +82,7 @@ h6, .h6 {
   padding-bottom: 20px;
 }
 .blog-title {
-  margin-top: 30px;
+  margin-top: 10px;
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
@@ -90,6 +90,9 @@ h6, .h6 {
 .blog-description {
   font-size: 20px;
   color: #999;
+}
+.blog-logo {
+  float: left; 
 }
 
 
