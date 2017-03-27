@@ -6,5 +6,11 @@ layout: default
     <h2 class="blog-post-title">{% if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>
     <p class="blog-post-meta">{{ page.date|date:"%d.%m.%Y" }}</p>
     {{ content }}
-	<div id="disqus_thread"></div>
+    <!--div id="disqus_thread"></div-->
+
+	<!-- Put this div tag to the place, where the Comments block will be -->
+	<div id="vk_comments"></div>
+	<script type="text/javascript">
+	VK.Widgets.Comments("vk_comments", {limit: 10, attach: "*"});
+	</script>
 </div>
