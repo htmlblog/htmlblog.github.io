@@ -124,7 +124,9 @@ h6, .h6 {
 .sidebar-module-ads{
   padding: 5px 0; 
 }
-
+.right-menu{
+  font-size: 1.3em; 
+}
 
 /* Pagination */
 .pager {
