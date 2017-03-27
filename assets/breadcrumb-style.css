@@ -1,11 +1,11 @@
 /* from Twitter Bootstrap */
 
 .breadcrumb {
-  padding: 0.75rem 1rem;
-  margin-bottom: 1rem;
-  list-style: none;
-  background-color: #f1f2ed;
-  border-radius: 0.25rem;
+    padding: 8px 15px;
+    margin: 0 -15px 20px 0;
+    list-style: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
 }
 
 .breadcrumb::after {
