@@ -42,10 +42,11 @@
 /* Additions: imgage integration */
 
 .breadcrumbs {
-  padding-left: 0;
-  margin-bottom: 1rem;
-  background-color: #f1f2ed;
-  border-radius: 0.25rem;
+    padding: 8px 15px;
+    margin: 0 -15px 20px 0;
+    list-style: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
 }
 
 .breadcrumbs::after {
