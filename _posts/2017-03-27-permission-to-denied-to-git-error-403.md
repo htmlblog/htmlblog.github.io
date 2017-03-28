@@ -14,8 +14,8 @@ header: 'Решение ошибки remote: Permission to user/repo denied to u
 layout: post
 ---
 
-**remote: Permission to user/repo denied to user/other-repo.**
-**fatal: unable to access user/repo: The requested URL returned error: 403** 
+> **remote: Permission to user/repo denied to user/other-repo.**
+> **fatal: unable to access user/repo: The requested URL returned error: 403** 
 
 В данном уроке рассмотрим варианты решения ошибки показанной на скриншоте выше. Данная ошибка возникает довольно часто при работе с Git в терминале Windows. Суть ошибка довольно таки простая, но почему-то в интернете постоянно создаются темы с вопросом на данную тему.
 
