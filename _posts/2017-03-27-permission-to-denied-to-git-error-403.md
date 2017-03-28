@@ -20,7 +20,9 @@ layout: post
 > **fatal: unable to access user/repo: The requested URL returned error: 403** 
 
 Возникает она чаще всего у новичков при попытке выполнить команду: 
+
 `$ git push `
+
 Пример ошибки на скриншоте ниже.
 
 ![git-permission-to-denied-to-error-403.jpg](/uploads/git-permission-to-denied-to-error-403.jpg)
