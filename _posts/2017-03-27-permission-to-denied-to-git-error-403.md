@@ -30,7 +30,17 @@ layout: post
 Данная ошибка возникает довольно часто при работе с Git в терминале Windows. Суть ошибка довольно таки простая, но почему-то в интернете постоянно создаются темы с вопросом на данную тему и нет внятного ответа на русском языке.
 
 Ошибка говорит нам о том, что мы пытаемся отправить данные в чужой репозиторий. И о том, что текущий пользователь Git не имеет прав для отправки данных в указанный в команде репозиторий.
-
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- htmlblog в тело статьи -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:600px;height:90px"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="6654417156"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
 <br>
 ### Существует два способа решить данную ошибку:
 <hr>
