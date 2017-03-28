@@ -19,7 +19,8 @@ layout: post
 > **remote: Permission to user/repo denied to user/other-repo.**
 > **fatal: unable to access user/repo: The requested URL returned error: 403** 
 
-Возникает она чаще всего при попытке сделать **$ git push**. Пример на скриншоте ниже.
+Возникает она чаще всего у новичков при попытке сделать **$ git push**. 
+Пример на скриншоте ниже.
 
 ![git-permission-to-denied-to-error-403.jpg](/uploads/git-permission-to-denied-to-error-403.jpg)
 
