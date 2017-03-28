@@ -1,7 +1,7 @@
 ---
 title: 'Git ошибка remote: Permission to user/repo denied to user/other-repo'
 date: 2017-03-27 07:03:00 Z
-permalink: "/Permission-to-denied-to-git-error"
+permalink: "/permission-to-denied-to-git-error-403"
 categories:
 - useful
 tags:
