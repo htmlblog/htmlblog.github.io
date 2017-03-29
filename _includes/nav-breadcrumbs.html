@@ -11,12 +11,26 @@
         {% continue %}
       {% endif %}
       
-      {% if page.categories == "useful" %}
+      {* % if page.categories == "useful" %}
          {% assign pagecat = "Полезное" %}
-      {% endif %}
-      <li>
+      {% endif % *}
+      <!--li>
            <span class="breadcrumb-item">{{ pagecat }} / {{ page.title }}</span>
-      </li>
+      </li-->
+      
+      {% for catpagename in page.categories %}
+          {% if category_name == catpagename %}
+
+          {% assign counter=counter | plus:1 %}
+          
+          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+             <a itemprop="item" href="{{ site.url }}{{ append:'/' | append:category_url |  append:'/' }}">
+               <span itemprop="name">{{ catpagename }}</span>
+             </a>
+          </li>
+
+          {% endif %}
+        {% endfor %}
 
     </ol>
 
