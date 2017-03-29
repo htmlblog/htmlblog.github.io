@@ -1,17 +1,3 @@
-<ol itemscope itemtype="http://schema.org/BreadcrumbList">
-
- 
-
-  <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-     <a itemprop="item" href="{{ site.url }}{{ page.url }}">
-       <span itemprop="name">{{ page.title }}</span>
-     </a>
-    <meta itemprop="position" content="{{counter}}" />
-  </li>
-
-</ol>
-
-
 {% capture url %}{% if page.language%}{{ page.url | remove: "/" | remove: page.language }}{% else %}{{ page.url | remove: "/" }}{% endif %}{% endcapture %}
 {% if url.size > 0 %}
   <nav class="breadcrumbs hidden-sm-down">
@@ -29,25 +15,8 @@
         {% continue %}
       {% endif %}
 
-      <!-- Skip if language directory -->
-      {% if page.language %}
-        {% assign langpath = crumb.url | remove: "/" %}
-        {% if langpath == page.language %}
-          {% continue %}
-        {% endif %}
-      {% endif %}
-
-      <!-- Get breadcrumb title. Insert snippet from configuration description to translates breadcrumb if language plugin is installed and YAML subset is set -->
-      {% assign caption = crumb.title %}
-
-      <!-- SEO data -->
-      {% assign position = position  | plus: 1 %}
-         
-      <li class="breadcrumb-item{% if crumb.url == page.url %} active{% endif %}" property="itemListElement" typeof="ListItem">
-        {% if crumb.url != page.url %}<a property="item" typeof="WebPage" href="{{ crumb.url | prepend: site.baseurl | prepend: site.url }}">{% endif %}
-        <span property="name">{{ caption }}</span>
-        {% if crumb.url != page.url %}</a>{% endif %}
-        <meta property="position" content="{{ position }}" />
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+           <span itemprop="name">{{ page.title }}</span>
       </li>
 
     {% endfor %}
