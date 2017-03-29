@@ -30,7 +30,7 @@
       {% assign position = position  | plus: 1 %}
       
       <li>
-        <a class="breadcrumb-item" href={{ page.url }}>{{ page.title }}</a>
+        <a class="breadcrumb-item" href="{{ page.url }}">{{ page.title }}</a>
       </li>
       
       <li class="breadcrumb-item{% if crumb.url == page.url %} active{% endif %}" property="itemListElement" typeof="ListItem">
