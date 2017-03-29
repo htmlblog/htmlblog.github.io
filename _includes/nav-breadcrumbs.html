@@ -18,7 +18,12 @@
            <span class="breadcrumb-item">{{ pagecat }} / {{ page.title }}</span>
       </li-->
       
-      {% for catpagename in page.categories %}
+     {% for category in site.categories %}
+
+      {% capture category_url %}{{ site.category_dir }}/{{ category | first | slugize | downcase | replace:' ','-' }}{% endcapture %}
+      {% capture category_name %}{{ category | first}}{% endcapture %}
+
+        {% for catpagename in page.categories %}
           {% if category_name == catpagename %}
 
           {% assign counter=counter | plus:1 %}
@@ -27,12 +32,15 @@
              <a itemprop="item" href="{{ site.url }}{{ append:'/' | append:category_url |  append:'/' }}">
                <span itemprop="name">{{ catpagename }}</span>
              </a>
+            <meta itemprop="position" content="{{counter}}" />
           </li>
 
           {% endif %}
         {% endfor %}
 
+   {% endfor %}
+
     </ol>
 
-  </nav>55
+  </nav>222
 {% endif %}
