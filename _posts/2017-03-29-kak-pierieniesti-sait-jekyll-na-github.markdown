@@ -21,7 +21,7 @@ layout: post
 
 <iframe width="610" height="343" src="https://www.youtube.com/embed/PXKPI2e1zZY" frameborder="0" allowfullscreen></iframe>
 
-
+<br>
 ### Порядок действий для публикации сайта на гитхаб:
 
 **1. Скачайте и установите Git:** http://cur.lv/15963w
