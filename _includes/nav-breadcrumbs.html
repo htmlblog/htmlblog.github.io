@@ -1,6 +1,6 @@
 {% capture url %}{% if page.language%}{{ page.url | remove: "/" | remove: page.language }}{% else %}{{ page.url | remove: "/" }}{% endif %}{% endcapture %}
 {% if url.size > 0 %}
-  11<nav class="breadcrumbs hidden-sm-down">
+  <nav class="breadcrumbs hidden-sm-down">
 
     <a class="breadcrumb-item" href={{ "/" | prepend: site.baseurl | prepend: site.url }}>Главная</a>
 
@@ -12,7 +12,7 @@
       {% endif %}
 
       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-           <span itemprop="name">{{ page.title }}</span>
+           <span class="breadcrumb-item" itemprop="name">{{ page.title }}</span>
       </li>
 
     </ol>
