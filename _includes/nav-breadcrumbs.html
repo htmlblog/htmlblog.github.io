@@ -10,9 +10,12 @@
       {% if crumb.url == "/" %}
         {% continue %}
       {% endif %}
-
+      
+      {% if page.categories == "useful" %}
+         {% pagecat = "Полезное" %}
+      {% endif %}
       <li>
-           <span class="breadcrumb-item">{{ page.categories }}{{ page.title }}</span>
+           <span class="breadcrumb-item">{{ pagecat }}/{{ page.title }}</span>
       </li>
 
     </ol>
