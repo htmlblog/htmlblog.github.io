@@ -4,7 +4,7 @@
 
     <a class="breadcrumb-item" href={{ "/" | prepend: site.baseurl | prepend: site.url }}>Главная</a>
 
-    <ol class="breadcrumb list-unstyled" vocab="http://schema.org/" typeof="BreadcrumbList">
+    <ol class="list-unstyled" vocab="http://schema.org/" typeof="BreadcrumbList">
 
       <!-- Skip if root -->
       {% if crumb.url == "/" %}
