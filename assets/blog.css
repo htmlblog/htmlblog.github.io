@@ -169,3 +169,12 @@ h6, .h6 {
   background-color: #f9f9f9;
   border-top: 1px solid #e5e5e5;
 }
+
+/*
+* Html Blog css
+*/
+
+.small-left {
+  font-size: 14px;
+  float: left; 
+}
