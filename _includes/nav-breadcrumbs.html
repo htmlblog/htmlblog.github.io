@@ -11,12 +11,7 @@
         {% continue %}
       {% endif %}
       
-      {* % if page.categories == "useful" %}
-         {% assign pagecat = "Полезное" %}
-      {% endif % *}
-      <!--li>
-           <span class="breadcrumb-item">{{ pagecat }} / {{ page.title }}</span>
-      </li-->
+     {% assign counter=0 %}
       
      {% for category in site.categories %}
 
@@ -42,5 +37,5 @@
 
     </ol>
 
-  </nav>222
+  </nav>777
 {% endif %}
