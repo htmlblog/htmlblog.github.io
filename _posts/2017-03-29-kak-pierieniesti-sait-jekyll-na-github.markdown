@@ -53,9 +53,13 @@ layout: post
 После этого выполните команды:
 
 `git config --global user.name "My name"`
+
 `git config --global user.email "myname@mail.ru"`
+
 `git add .`
+
 `git commit -m "comment"`
+
 `git push -u origin master`
 
 При выполнении последней команды терминал спросит ваш пароль от учетной записи на GitHub. 
