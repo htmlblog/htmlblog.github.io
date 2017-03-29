@@ -18,24 +18,28 @@
       {% capture category_url %}{{ site.category_dir }}/{{ category | first | slugize | downcase | replace:' ','-' }}{% endcapture %}
       {% capture category_name %}{{ category | first}}{% endcapture %}
 
-        {% for catpagename in page.categories %}
-          {% if category_name == catpagename %}
+          {% for catpagename in page.categories %}
+              {% if category_name == catpagename %}
 
-          {% assign counter=counter | plus:1 %}
-          
-          <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-             <a itemprop="item" href="{{ site.url }}{{ append:'/' | append:category_url |  append:'/' }}">
-               <span itemprop="name">{{ catpagename }}</span>
-             </a>
-            <meta itemprop="position" content="{{counter}}" />
-          </li>
+              {% assign counter=counter | plus:1 %}
 
-          {% endif %}
-        {% endfor %}
+              <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                 <a class="breadcrumb-item" itemprop="item" href="{{ site.url }}{{ append:'/' | append:category_url |  append:'/' }}">
+                   <span itemprop="name">{{ catpagename }}</span>
+                 </a>
+                <meta itemprop="position" content="{{counter}}" />
+              </li>
 
-   {% endfor %}
+              {% endif %}
+          {% endfor %}
+
+       {% endfor %}
+      
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+             <span class="breadcrumb-item" itemprop="name">{{ page.title }}</span>
+        </li>
 
     </ol>
 
-  </nav>777
+  </nav>
 {% endif %}
