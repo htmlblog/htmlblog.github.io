@@ -11,6 +11,8 @@
         {% continue %}
       {% endif %}
       
+      {% assign pagecat=page.categories %}
+      
       {% if page.categories == "useful" %}
          {% pagecat = "Полезное" %}
       {% endif %}
