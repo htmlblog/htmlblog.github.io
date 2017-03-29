@@ -1,14 +1,10 @@
 {% capture url %}{% if page.language%}{{ page.url | remove: "/" | remove: page.language }}{% else %}{{ page.url | remove: "/" }}{% endif %}{% endcapture %}
 {% if url.size > 0 %}
-  <nav class="breadcrumbs hidden-sm-down">
+  11<nav class="breadcrumbs hidden-sm-down">
 
     <a class="breadcrumb-item" href={{ "/" | prepend: site.baseurl | prepend: site.url }}>Главная</a>
 
     <ol class="breadcrumb list-unstyled" vocab="http://schema.org/" typeof="BreadcrumbList">
-
-    <!-- Iteration breadcrumb item -->
-    {% assign position = 0 %}
-    {% for crumb in breadcrumbs %}
 
       <!-- Skip if root -->
       {% if crumb.url == "/" %}
@@ -18,8 +14,6 @@
       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
            <span itemprop="name">{{ page.title }}</span>
       </li>
-
-    {% endfor %}
 
     </ol>
 
