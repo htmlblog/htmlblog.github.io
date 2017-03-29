@@ -14,7 +14,7 @@
       {% assign pagecat=page.categories %}
       
       {% if page.categories == "useful" %}
-         {% pagecat = "Полезное" %}
+         {% assign pagecat = "Полезное" %}
       {% endif %}
       <li>
            <span class="breadcrumb-item">{{ pagecat }} / {{ page.title }}</span>
