@@ -8,6 +8,8 @@ tags:
 - jekyll
 - github
 header: Публикация сайта Jekyll на GitHub хостинге
+description: Переносим сайт созданный на Jekyll на GitHub хостинг. Подробная инструкция
+  по работе с терминалом и видео урок.
 layout: post
 ---
 
