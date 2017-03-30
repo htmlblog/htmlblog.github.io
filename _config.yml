@@ -12,7 +12,7 @@ email: mikhailyand@ya.ru
 description: Блог программиста. Создание сайтов на php, html, а также с помощью популярных
   CMS.
 baseurl: https://htmlblog.github.io
-url: ''
+url: 'https://htmlblog.github.io'
 permalink: "/:title"
 markdown: kramdown
 gems:
