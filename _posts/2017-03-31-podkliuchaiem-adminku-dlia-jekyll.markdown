@@ -55,5 +55,7 @@ layout: post
 
 Вы также можете посмотреть видео урок как установить **плагин админки для Jekyll**.
 
-
+<div class="myvideo">
+<iframe width="610" height="343" src="https://www.youtube.com/embed/r2DgWZTle9M" frameborder="0" allowfullscreen></iframe>
+</div>
 
