@@ -21,7 +21,7 @@ layout: post
 
 Если вы любите читать, то посмотрите подробный урок **как перенести Jekyll на Github**
 
-<iframe width="610" height="343" src="https://www.youtube.com/embed/PXKPI2e1zZY" frameborder="0" allowfullscreen></iframe>
+<div class="myvideo"><iframe width="610" height="343" src="https://www.youtube.com/embed/PXKPI2e1zZY" frameborder="0" allowfullscreen></iframe></div>
 
 <br>
 ### Порядок действий для публикации сайта на гитхаб:
