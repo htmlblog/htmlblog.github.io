@@ -59,3 +59,4 @@ layout: post
 <iframe width="610" height="343" src="https://www.youtube.com/embed/r2DgWZTle9M" frameborder="0" allowfullscreen></iframe>
 </div>
 
+На этом все. Удобного администрирования :)
