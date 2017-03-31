@@ -8,6 +8,8 @@ tags:
 - jekyll
 - admin
 header: Плагин визуальной админки для Jekyll
+description: Рассмотрим как подключить визуальную админку для Jelyll с помощью плагина
+  jekyll-admin. Все лишь одна строчка кода.
 layout: post
 ---
 
