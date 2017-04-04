@@ -7,7 +7,7 @@ tags:
 - jekyll
 - github
 - admin
-header: Подключаем админка Jekyll к репозиторию GitHub
+header: Подключаем админку Jekyll к репозиторию GitHub
 layout: post
 ---
 
