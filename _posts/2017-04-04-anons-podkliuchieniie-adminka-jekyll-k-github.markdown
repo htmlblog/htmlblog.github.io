@@ -1,6 +1,6 @@
 ---
 title: Подключение админки Jekyll к GitHub
-date: 2017-03-31 16:10:00 Z
+date: 2017-04-04 16:10:00 Z
 categories:
 - jekyll
 tags:
