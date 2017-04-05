@@ -1,9 +1,10 @@
 ---
 title: Your Filename
-date: 2017-04-05T00:00:00.000Z
+date: 2017-04-05 00:00:00 Z
 published: false
+categories:
+- jekyll
 header: asdasd
-category: jekyll
 ---
 
 ## A New Post
