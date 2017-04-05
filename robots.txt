@@ -1,0 +1,2 @@
+Sitemap: https://htmlblog.github.io/sitemap.xml
+Host: https://htmlblog.github.io
