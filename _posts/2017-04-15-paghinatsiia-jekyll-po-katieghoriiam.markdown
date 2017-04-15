@@ -45,11 +45,12 @@ layout: post
 
 <div>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- htmlblog в тело статьи -->
+<!-- html blog article adaptive -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:600px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-7700451254687983"
-     data-ad-slot="6654417156"></ins>
+     data-ad-slot="1629640353"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
