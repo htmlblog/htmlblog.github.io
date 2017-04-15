@@ -13,6 +13,6 @@ layout: post
 
 3
 `<!-- Pagination links -->`
-`{% if paginator.total_pages > 1 %}`
+```{% if paginator.total_pages > 1 %}```
 ` {% endif %}`
 ` <!-- Pagination links End-->`
