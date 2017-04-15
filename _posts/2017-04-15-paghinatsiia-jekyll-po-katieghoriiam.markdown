@@ -28,6 +28,7 @@ layout: post
 
 >baseurl: /
 
+
 Далее задаем настройки для нашего плагина постраничного вывода:
 >pagination:<br>
 >    enabled: true<br>
