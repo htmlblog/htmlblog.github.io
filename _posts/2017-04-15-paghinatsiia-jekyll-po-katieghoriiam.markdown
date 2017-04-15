@@ -31,9 +31,9 @@ layout: post
 
 Далее задаем настройки для нашего плагина постраничного вывода:
 >pagination:<br>
->    enabled: true<br>
->    per_page: 4<br>
->    category: posts
+>>enabled: true<br>
+>>per_page: 4<br>
+>>category: posts
 
 Подключаем плагин:
 >gem:<br>
