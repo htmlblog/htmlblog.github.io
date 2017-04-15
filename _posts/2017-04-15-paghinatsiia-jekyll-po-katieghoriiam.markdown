@@ -43,6 +43,19 @@ layout: post
 
 С файлом настроек закончили. Включили плагин, сказали ему выводить по умолчанию 4 записи из всех категорий (подойдет для главной страницы). Двигаемся дальше.
 
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- htmlblog в тело статьи -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:600px;height:90px"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="6654417156"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>
+
 3) Открываем, также в корне вашего проекта **Jekyll**, файл **Gemfile**. Добавляем в него следующий код:
 >group :jekyll_plugins do<br>
 >>gem "jekyll-paginate-v2"
