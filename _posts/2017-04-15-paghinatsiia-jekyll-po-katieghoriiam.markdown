@@ -72,11 +72,11 @@ layout: post
 
 Далее ищем код, который в цикле выводит посты и меняем его на код как на скриншоте:
 ![jekyll-post-category-paginate.jpg](/uploads/jekyll-post-category-paginate.jpg)
->[Скачать файл с кодом ](/uploads/paginate.txt)
+>[Скачать файл с кодом ](http://cur.lv/15cj17)
 
 Далее вставляем код **постраничного вывода постов Jekyll** как на скриншоте:
 ![jekyll-posts-category-paginate.jpg](/uploads/jekyll-posts-category-paginate.jpg)
->[Скачать файл с кодом пагинации](/uploads/paginate.txt)
+>[Скачать файл с кодом пагинации](http://cur.lv/15cj17)
 
 **Важно!** Для главной страницы сайта! <br>
 Замените в коде пагинации у ссылок *'/news/'* на *'/'*.
