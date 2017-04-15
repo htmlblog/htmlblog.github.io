@@ -33,3 +33,7 @@ layout: post
 >  enabled: true<br>
 >  per_page: 2<br>
 >  category: posts
+
+Подключаем плагин:
+>gem:<br>
+>  -jekyll-paginate-v2
