@@ -71,11 +71,11 @@ layout: post
 >>enabled: true
 
 Далее ищем код, который в цикле выводит посты и меняем его на код как на скриншоте:
-![jekyll-post-category-paginate.jpg](/uploads/jekyll-post-category-paginate.jpg)
+![jekyll-post-category-paginate.jpg](/uploads/jekyll-post-category-paginate.jpg){:alt="постраничный вывод записей в категориях Jekyll"}
 >[Скачать файл с кодом ](http://cur.lv/15cj17){:target="_blank" rel="nofollow"}
 
 Далее вставляем код **постраничного вывода постов Jekyll** как на скриншоте:
-![jekyll-posts-category-paginate.jpg](/uploads/jekyll-posts-category-paginate.jpg)
+![jekyll-posts-category-paginate.jpg](/uploads/jekyll-posts-category-paginate.jpg){:alt="пагинация постов в категориях Jekyll"}
 >[Скачать файл с кодом пагинации](http://cur.lv/15cj17){:target="_blank" rel="nofollow"}
 
 **Важно!** Для главной страницы сайта! <br>
