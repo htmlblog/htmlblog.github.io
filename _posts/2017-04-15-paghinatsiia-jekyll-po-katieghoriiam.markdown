@@ -11,7 +11,7 @@ description: В данной статье рассмотрим как подкл
 layout: post
 ---
 
-3
+4
 `<!-- Pagination links -->`
 ```{% if paginator.total_pages > 1 %}```
 ` {% endif %}`
