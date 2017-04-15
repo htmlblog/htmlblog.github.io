@@ -29,7 +29,7 @@ layout: post
 >baseurl: /
 
 Далее задаем настройки для нашего плагина постраничного вывода:
->pagination:
->  enabled: true
->  per_page: 2
+>pagination:<br>
+>  enabled: true<br>
+>  per_page: 2<br>
 >  category: posts
