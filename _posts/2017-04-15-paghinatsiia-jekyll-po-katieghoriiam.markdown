@@ -19,4 +19,4 @@ layout: post
 ~~~xml
 {% endif %}
 ~~~
-` <!-- Pagination links End-->`
+`<!-- Pagination links End-->`
