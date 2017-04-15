@@ -45,7 +45,8 @@ layout: post
 
 3) Открываем, также в корне вашего проекта **Jekyll**, файл **Gemfile**. Добавляем в него следующий код:
 >group :jekyll_plugins do<br>
->>gem "jekyll-paginate-v2"<br>
+>>gem "jekyll-paginate-v2"
+
 >end
 
 Если у вас уже есть данная конструкция в файле, то просто добавьте между строками *group* и *end* строку **gem "jekyll-paginate-v2"**.
