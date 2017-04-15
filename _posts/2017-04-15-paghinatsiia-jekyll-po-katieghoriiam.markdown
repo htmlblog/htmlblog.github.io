@@ -13,7 +13,7 @@ layout: post
 
 ```
 <!-- Pagination links -->
-  {% if paginator.total_pages > 1 %}
+  `{% if paginator.total_pages > 1 %}`
 	<div class="pagination">
 	  {% if paginator.previous_page == 1 %}
 		<a href="{{ '/news/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
