@@ -1,10 +1,10 @@
 ---
-title: Пагинация Jekyll по категориям
+title: Пагинация постов Jekyll по категориям
 date: 2017-04-15 11:30:00 Z
 permalink: jekyll-post-pagination-in-category
 categories:
 - jekyll
-header: Пагинация постов Jekyll в категориях
+header: Постраничный вывод постов Jekyll в категориях
 description: В данной статье рассмотрим как подключить плагин для постраничного вывода
   постов в категориях Jekyll. Пагинация постов Jekyll по категориям важный вопрос
   при создании блога.
