@@ -11,10 +11,9 @@ description: В данной статье рассмотрим как подкл
 layout: post
 ---
 
-```
-<!-- Pagination links -->
-  `{% if paginator.total_pages > 1 %}`
-	<div class="pagination">
+> <!-- Pagination links -->
+>  {% if paginator.total_pages > 1 %}
+>	<div class="pagination">
 	  {% if paginator.previous_page == 1 %}
 		<a href="{{ '/news/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
 	  {% elsif paginator.previous_page%}
@@ -42,4 +41,3 @@ layout: post
 	</div>
 	{% endif %}
 <!-- Pagination links End-->
-```
