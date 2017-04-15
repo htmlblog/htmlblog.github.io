@@ -12,7 +12,7 @@ layout: post
 ---
 
 2
-` <!-- Pagination links -->`
+`<!-- Pagination links -->`
 ` {% if paginator.total_pages > 1 %}`
 ` {% endif %}`
 ` <!-- Pagination links End-->`
