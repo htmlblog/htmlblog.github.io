@@ -5,7 +5,6 @@ layout: default
 pagination:
   enabled: true
   category: news
-  # categories: news, sport
 ---
 
 {% for post in paginator.posts %}
