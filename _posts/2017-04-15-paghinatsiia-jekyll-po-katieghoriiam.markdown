@@ -13,6 +13,8 @@ layout: post
 
 4
 `<!-- Pagination links -->`
-```{% if paginator.total_pages > 1 %}```
+```xml
+{% if paginator.total_pages > 1 %}
+```
 ` {% endif %}`
 ` <!-- Pagination links End-->`
