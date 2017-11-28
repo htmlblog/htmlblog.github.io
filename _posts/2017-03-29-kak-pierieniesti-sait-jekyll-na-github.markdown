@@ -26,11 +26,11 @@ layout: post
 <br>
 ### Порядок действий для публикации сайта на гитхаб:
 <br>
-**1. Скачайте и установите Git:** [http://cur.lv/15963w](http://cur.lv/15963w){:target="_blank" rel="nofollow"}
+**1. Скачайте и установите Git:** [https://git-scm.com/download/win](https://git-scm.com/download/win){:target="_blank" rel="nofollow"}
 
 В процессе установки можете ничего не менять и просто нажимать "Далее".
 
-**2. Зарегистрироваться на сайте GitHub:** [http://cur.lv/15963y](http://cur.lv/15963y){:target="_blank" rel="nofollow"}
+**2. Зарегистрироваться на сайте GitHub:** [https://github.com/](https://github.com/){:target="_blank" rel="nofollow"}
 
 После того как зарегистрируетесь на GitHub создайте репозиторий. Нажмите на главной странице кнопку **Start a project**. Далее необходимо ввести название репозитория в следующем формате!:
 
