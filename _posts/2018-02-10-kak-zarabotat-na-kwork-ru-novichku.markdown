@@ -16,7 +16,7 @@ header: Как начать заработать на kwork.ru. Варианты
 layout: post
 ---
 
-![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg =100%){:alt="как заработать на kwork ru новичку"}
+![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg){:alt="как заработать на kwork ru новичку" width=100%}
 
 **Как зарабатывать на сайте kwork.ru** новичкам и не только? - наиболее популярный вопрос, который можно встретить в интернете.
 
@@ -33,11 +33,12 @@ layout: post
 Мы рассмотрим вариант, что вы ничего не умеете сами и будем заниматься перепродажей услуг. Но где их найти? Это конечно не проблема.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- htmlblog в тело статьи -->
+<!-- html blog article adaptive -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:600px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-7700451254687983"
-     data-ad-slot="6654417156"></ins>
+     data-ad-slot="1629640353"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -52,7 +53,7 @@ layout: post
 
 Выставим в фильтре слева "положительных отзывов - более 100" и "уровень продавца - профессионал". Так мы увидим кворки, которые давно на сайте и регулярно пользуются спросом. Далее смотрим на скриншот.
 
-![zarabotok-na-kwork-pisat-statii.jpg](/uploads/zarabotok-na-kwork-pisat-statii.jpg =100%){:alt="kwork как заработать"}
+![zarabotok-na-kwork-pisat-statii.jpg](/uploads/zarabotok-na-kwork-pisat-statii.jpg){:alt="kwork как заработать"}
 
 На данном изображении видим, что товарищ под ником IRANA предлагает написать статью объемом 3500 символов за 500 рублей (по факту конечно за 400 руб. см начало статьи).
 
@@ -60,7 +61,7 @@ layout: post
 
 > Не бойтесь выбирать новичков. Текст всегда можно вернуть на доработку. Да и новичкам не выгодно писать плохие тексты. Им как и на любой бирже нужно набирать положительные отзывы для доступа к дорогим заказам.
 
-![zaraboto-kwork-novichki-teksty.jpg](/uploads/zaraboto-kwork-novichki-teksty.jpg =100%){:alt="kwork как заработать copylancer"}
+![zaraboto-kwork-novichki-teksty.jpg](/uploads/zaraboto-kwork-novichki-teksty.jpg){:alt="kwork как заработать copylancer"}
 
 В итоге мы видим, что для заказа текста 3500 символов нам понадобится 82 рубля. С каждого такого заказа мы будем **зарабатывать на kwork** по 300 рублей. Неплохо для того, кто ничего сам не умеет :)
 
@@ -71,11 +72,12 @@ layout: post
 <iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/donate.xml?account=410011216089107&quickpay=donate&payment-type-choice=on&mobile-payment-type-choice=on&default-sum=99&targets=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B5+%D0%B5%D1%89%D0%B5+3+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B0+%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%BD%D0%B0+kwork.ru&target-visibility=on&project-name=htmlblog.github.io&project-site=https%3A%2F%2Fhtmlblog.github.io&button-text=05&mail=on&successURL=https%3A%2F%2Fhtmlblog.github.io%2Fkak-zarabotat-na-kwork-ru-novichku" width="508" height="117"></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- htmlblog в тело статьи -->
+<!-- html blog article adaptive -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:600px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-7700451254687983"
-     data-ad-slot="6654417156"></ins>
+     data-ad-slot="1629640353"
+     data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
