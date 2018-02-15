@@ -16,7 +16,7 @@ header: Как начать заработать на kwork.ru. Варианты
 layout: post
 ---
 
-![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg){:alt="как заработать на kwork ru новичку" style="width: 200px"}
+![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg){:alt="как заработать на kwork ru новичку" style="width: 100%"}
 
 **Как зарабатывать на сайте kwork.ru** новичкам и не только? - наиболее популярный вопрос, который можно встретить в интернете.
 
@@ -53,7 +53,7 @@ layout: post
 
 Выставим в фильтре слева "положительных отзывов - более 100" и "уровень продавца - профессионал". Так мы увидим кворки, которые давно на сайте и регулярно пользуются спросом. Далее смотрим на скриншот.
 
-![zarabotok-na-kwork-pisat-statii.jpg](/uploads/zarabotok-na-kwork-pisat-statii.jpg){:alt="kwork как заработать"}
+![zarabotok-na-kwork-pisat-statii.jpg](/uploads/zarabotok-na-kwork-pisat-statii.jpg){:alt="kwork как заработать" style="width: 100%"}
 
 На данном изображении видим, что товарищ под ником IRANA предлагает написать статью объемом 3500 символов за 500 рублей (по факту конечно за 400 руб. см начало статьи).
 
@@ -61,7 +61,7 @@ layout: post
 
 > Не бойтесь выбирать новичков. Текст всегда можно вернуть на доработку. Да и новичкам не выгодно писать плохие тексты. Им как и на любой бирже нужно набирать положительные отзывы для доступа к дорогим заказам.
 
-![zaraboto-kwork-novichki-teksty.jpg](/uploads/zaraboto-kwork-novichki-teksty.jpg){:alt="kwork как заработать copylancer"}
+![zaraboto-kwork-novichki-teksty.jpg](/uploads/zaraboto-kwork-novichki-teksty.jpg){:alt="kwork как заработать copylancer" style="width: 100%"}
 
 В итоге мы видим, что для заказа текста 3500 символов нам понадобится 82 рубля. С каждого такого заказа мы будем **зарабатывать на kwork** по 300 рублей. Неплохо для того, кто ничего сам не умеет :)
 
