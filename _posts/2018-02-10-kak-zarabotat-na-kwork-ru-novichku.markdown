@@ -16,7 +16,7 @@ header: Как начать заработать на kwork.ru. Варианты
 layout: post
 ---
 
-![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg){:alt="как заработать на kwork ru новичку" width=100%}
+![kwork-kak-zarabotat-novichku.jpg](/uploads/kwork-kak-zarabotat-novichku.jpg){:alt="как заработать на kwork ru новичку" style="width: 200px"}
 
 **Как зарабатывать на сайте kwork.ru** новичкам и не только? - наиболее популярный вопрос, который можно встретить в интернете.
 
