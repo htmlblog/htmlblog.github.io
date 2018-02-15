@@ -32,6 +32,16 @@ layout: post
 
 Мы рассмотрим вариант, что вы ничего не умеете сами и будем заниматься перепродажей услуг. Но где их найти? Это конечно не проблема.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- htmlblog в тело статьи -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:600px;height:90px"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="6654417156"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 > **Друзья, если вас заинтересовала данная статья помогите мне повысить посещаемость блога. В конце статьи есть кнопки для репоста. Поделитесь материалом на своих страницах в соц сетях. Это поможет мне писать больше полезных материалов для вас. Заранее благодарю!**
 
 Перед началом поиска идем на сайт и смотрим какие кворки пользуются популярностью у заказчиков.
@@ -59,3 +69,13 @@ layout: post
 Тем, кто поддержит меня достойной суммой сразу отправлю 3 способа заработка на email, указанный при переводе средств.
 
 <iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/donate.xml?account=410011216089107&quickpay=donate&payment-type-choice=on&mobile-payment-type-choice=on&default-sum=99&targets=%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B5+%D0%B5%D1%89%D0%B5+3+%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B0+%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%BD%D0%B0+kwork.ru&target-visibility=on&project-name=htmlblog.github.io&project-site=https%3A%2F%2Fhtmlblog.github.io&button-text=05&mail=on&successURL=https%3A%2F%2Fhtmlblog.github.io%2Fkak-zarabotat-na-kwork-ru-novichku" width="508" height="117"></iframe>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- htmlblog в тело статьи -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:600px;height:90px"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="6654417156"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
