@@ -19,7 +19,7 @@ h6, .h6 {
   color: #333;
 }
 
-.blog-post img {
+.blog-main img, .blog-post img {
     display: block; 
     max-width: 100%; 
     height: auto;
