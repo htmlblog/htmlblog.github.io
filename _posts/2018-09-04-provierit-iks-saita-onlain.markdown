@@ -27,7 +27,6 @@ description: 'Как проверить ИКС сайта онлайн. Каки
 
 На данный момент еще практически ни один онлайн сервис не внедрил инструменты для **определения ИКС онлайн**. Единственным инструментом, чтобы **узнать ИКС сайта онлайн** служит форма проверки от Яндекс. Чтобы проверить индекс качества сайта перейдите по [ссылке](https://webmaster.yandex.ru/sqi/?host=){: target="_blank" rel="nofollow"} и введите в поле адрес своего сайта.
 
-<br>
 <div>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- html blog article adaptive -->
@@ -41,7 +40,6 @@ description: 'Как проверить ИКС сайта онлайн. Каки
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
-<br>
 
 ## Создать сервис оценки ИКС сайта
 
