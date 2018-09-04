@@ -6,6 +6,11 @@ layout: default
     <h1 class="blog-post-title">{% if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h1>
     <p class="blog-post-meta">{{ page.date|date:"%d.%m.%Y" }}</p>
     {{ content }}
+	<div class="blog-post-tags">
+	  {% for tags in page.tags %}
+	    <a>{{ tags }}</a>
+	  {% endfor %}
+	</div>
     <hr>
     	<div id="disqus_thread"></div>
 
