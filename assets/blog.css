@@ -47,7 +47,7 @@ h6, .h6 {
 }
 .blog-post-tags span:hover {
     color: #FFF;
-    text-shadow: -1px -1px 0 rgba(153,102,51,0.3);
+    text-shadow: 1px 1px 0 rgba(11,11,11,0.7);
     cursor: pointer;
 }
 
