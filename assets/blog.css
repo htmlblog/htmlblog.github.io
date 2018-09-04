@@ -25,6 +25,19 @@ h6, .h6 {
     height: auto;
 }
 
+.blog-post-tags span {
+    display: inline-block;
+    height: 25px;
+    background: url(tag.png) no-repeat;
+    font: bold 11px/22px Arial, sans-serif;
+    color: #963;
+    text-decoration: none;
+    padding: 0 8px 0 20px;
+    text-shadow: 1px 1px 0 rgba(256,256,256,0.4);
+    white-space: nowrap;
+    position: relative;
+}
+
 /*
  * Override Bootstrap's default container.
  */
