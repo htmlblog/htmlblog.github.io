@@ -29,7 +29,7 @@ description: 'Как проверить ИКС сайта онлайн. Каки
 
 Абсолютно все разработчики для создания своих сервисов анализа используют предоставляемый им API от Яндекс. Это библиотека функций, который позволяют получать данные об ИКС сайта. Ознакомиться с API для работы с данными индекса качества сайта можно на [данной странице документации Яндекса](https://tech.yandex.ru/webmaster/doc/dg/reference/sqi-history-docpage/){: target="_blank" rel="nofollow"}.
 Чтобы получить значение параметра сайта необходимо отправить GET-запрос в формате:
-> GET https:// api.webmaster.yandex.net/v3.2/user/{user-id}/hosts/{host-id}/sqi-history/
+> GET (https://api.webmaster.yandex.net/v3.2/user/{user-id}/hosts/{host-id}/sqi-history/){: target="_blank" rel="nofollow"}
 
 У тех, кто знаком с языком программирования php проблем не возникнет. Тем более, что в документации все шаги по работе с API расписаны пошагово.
 
