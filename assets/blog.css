@@ -37,6 +37,19 @@ h6, .h6 {
     white-space: nowrap;
     position: relative;
 }
+.blog-post-tags span:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 25px;
+  background: url(../uploads/tag.png) 100% 0 no-repeat;
+}
+.blog-post-tags span:hover {
+  color: #FFF;
+  text-shadow: -1px -1px 0 rgba(153,102,51,0.3);
+}
 
 /*
  * Override Bootstrap's default container.
