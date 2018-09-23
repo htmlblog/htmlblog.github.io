@@ -1,5 +1,5 @@
 ---
-title: Редактор Bluefish FTP подключение в Ubuntu
+title: 'Редактор Bluefish: FTP подключение в Ubuntu'
 date: 2018-09-23 13:11:00 Z
 categories:
 - useful
