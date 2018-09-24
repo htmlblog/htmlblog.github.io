@@ -55,6 +55,10 @@ h6, .h6 {
     cursor: pointer;
 }
 
+.bluecolor {
+    color: #428bca;
+}
+
 /*
  * Override Bootstrap's default container.
  */
