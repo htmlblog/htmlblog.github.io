@@ -22,7 +22,17 @@ layout: post
 Последние несколько месяцев биткоин показывает невероятный рост и другие криптовалюты также устремились в облака. Если у вас есть **видеокарта с 3-4 Гб видеопамяти**, то самое время немного подзаработать лежа на диване на **майнинге монеты Ergo (ERG)**.
 
 Сам я никогда раньше не занимался майнингом, но в этот раз не удержался и решил научиться это делать. На поиск оптимальной монеты и программы для майнинга у меня ушло около 5 дней. Вам же я предлагаю готовое решение для майнинга.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Майнинг на видеокартах долгое время (около 2-х лет) не был востребован т к из-за низкой стоимости криптовалюты не окупалось даже электричество. В этот самый период (криптозима) я приобрел у одного майнера видеокарту RX470 4Gb всего за 5 тыс. рублей. Он распродавал свое железо т к думал, что майнинг умер. Сейчас, после роста стоимости биткоина, моя  видеокарта стоит в среднем 16 тысяч и способна зарабатывать в месяц **5-7 тысяч рублей чистыми**.
 
 ![kurs-btc.jpg](/uploads/kurs-btc.jpg){:alt="рост цены на биткоин"}
@@ -39,7 +49,17 @@ layout: post
 # Как майнить Ergo (ERG)
 
 Для майнинга я выбрал пул WoolyPooly т к на нем есть свой кошелек и можно быстро приступить к майнингу, а кошелек создать позднее когда определитесь с биржей для вывода.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 **Далее напишу по шагам для новичков как начать майнить Ergo:**
 
 1. Перейдите на сайт пула https://woolypooly.com/en/coin/erg;
@@ -68,7 +88,17 @@ layout: post
 Обратите внимание, что после точки идет название вашей фермы. Эту часть копировать не нужно.
 
 **Вывод монеты происходит автоматически** на ваш кошелек в пуле WoolyPooly, когда вы добудете хотя бы одну. У меня уходит на майнинг 1 монеты Ergo 4 дня.
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Если вам интересна тема, то могу поделиться информацией о прошивке видеокарты и настройках разгона джля уменьшения потребления электричества и повышения хешрейта видеокарты. Но только для AMD - зеленой карты не имеется для тестов.
 
 Надеюсь вам помогла данная инструкция. Буду рад ответить на ваши вопросы в комментариях под статьей.
