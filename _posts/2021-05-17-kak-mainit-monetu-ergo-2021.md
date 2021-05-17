@@ -102,3 +102,7 @@ layout: post
 Если вам интересна тема, то могу поделиться информацией о прошивке видеокарты и настройках разгона джля уменьшения потребления электричества и повышения хешрейта видеокарты. Но только для AMD - зеленой карты не имеется для тестов.
 
 Надеюсь вам помогла данная инструкция. Буду рад ответить на ваши вопросы в комментариях под статьей.
+
+# Видео как майнить монету Ergo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFTnKplMczU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
