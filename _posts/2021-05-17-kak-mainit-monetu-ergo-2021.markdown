@@ -1,5 +1,5 @@
 ---
-title: Как майнить монету Ergo
+title: Как майнить монету Ergo. Итоги за 25 дней
 date: 2021-05-17 03:37:00 Z
 categories:
 - useful
@@ -10,7 +10,7 @@ tags:
 - инструкция
 - гайд
 - новичкам
-header: Как майнить криптовалюту Ergo. Инструкция для новичка
+header: Как майнить криптовалюту Ergo. Инструкция для новичка. Итоги за 25 дней
 description: В мае 2021 года самой выгодной монетой для майнинга стала Ergo. Подробная
   инструкция для новичка как майнить Ergo на видеокарте 4Gb.
 ---
@@ -103,3 +103,8 @@ description: В мае 2021 года самой выгодной монетой 
 
 # Видео как майнить монету Ergo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFTnKplMczU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Также делюсь своими результатами майнинга за 25 дней на одной видеокарте RX470 4Gb mini (урезанная версия с одним кулером).
+
+# Итоги месячного майнинга ERGO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/199fKi40O80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
