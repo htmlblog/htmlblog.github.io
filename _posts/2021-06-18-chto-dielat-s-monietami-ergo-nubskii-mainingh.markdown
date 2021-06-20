@@ -43,6 +43,7 @@ description: Многие в последние пару месяцев майн
 Если вас устраивает текущий курс и вы все же решили вывести монеты ERG в фиат(реальные деньги), то вам понадобится регистрация на бирже Binance т к там есть вывод на различные банковские карты - **Сбербанк**, **Тинькофф**, **Альфа-банк** и многие другие, а также все популярные электронные кошельки - **Qiwi**, **Яндекс.Деньги**, **Payeer** и другие.
 
 > Для того, чтобы получить постоянную скидку 5% на все комиссии Binance на ввод, вывод средств и торговлю на бирже воспользуйтесь [**реферальной ссылкой**](https://www.binance.com/ru/register?ref=NW58OC50).
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- html blog article adaptive -->
 <ins class="adsbygoogle"
@@ -65,17 +66,7 @@ description: Многие в последние пару месяцев майн
 * **На бирже Binance обмениваем TRX обратно на USDT.** Обмен совершается в разделе Торговля->Классическая.
 
 * **Выводим USDT на карту или электронный кошелек.** В разделе Кошелек->P2P кошелек выводим наши USDT. 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- html blog article adaptive -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7700451254687983"
-     data-ad-slot="1629640353"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 ## Подробная видео как вывести Ergo (ERG)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X0r5a_jIsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Кидай донат на печеньки, если статья оказалась полезной: [https://yoomoney.ru/to/410011216089107](https://yoomoney.ru/to/410011216089107)
