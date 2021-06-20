@@ -55,6 +55,17 @@ description: Многие в последние пару месяцев майн
 * **На бирже Binance обмениваем TRX обратно на USDT.** Обмен совершается в разделе Торговля->Классическая.
 
 * **Выводим USDT на карту или электронный кошелек.** В разделе Кошелек->P2P кошелек выводим наши USDT. 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ## Подробная видео как вывести Ergo (ERG)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X0r5a_jIsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Кидай донат на печеньки, если статья оказалась полезной: [https://yoomoney.ru/to/410011216089107](https://yoomoney.ru/to/410011216089107)
