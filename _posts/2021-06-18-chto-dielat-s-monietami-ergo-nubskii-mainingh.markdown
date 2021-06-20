@@ -43,7 +43,17 @@ description: Многие в последние пару месяцев майн
 Если вас устраивает текущий курс и вы все же решили вывести монеты ERG в фиат(реальные деньги), то вам понадобится регистрация на бирже Binance т к там есть вывод на различные банковские карты - **Сбербанк**, **Тинькофф**, **Альфа-банк** и многие другие, а также все популярные электронные кошельки - **Qiwi**, **Яндекс.Деньги**, **Payeer** и другие.
 
 > Для того, чтобы получить постоянную скидку 5% на все комиссии Binance на ввод, вывод средств и торговлю на бирже воспользуйтесь [**реферальной ссылкой**](https://www.binance.com/ru/register?ref=NW58OC50).
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 Далее пошагово, что делать, чтобы зафиксировать прибыль и вывести через Binance:
 
 * **На бирже CoinEx в разделе Биржа продаем монеты ERG за USDT.** USDT - это stable coin. Стабильная монета привязанная к курсу доллара. Даже, если биткоин упадет в три раза stable coin сохранит свой курс. Самые популярные USDT, BUSD.
