@@ -21,11 +21,25 @@ description: Скачать и установить Node.js на Windows 7 се�
 
 Если вы сейчас перейдете на официальный сайт Node.j и скачаете установочный файл для Windows, то при запуске получите ошибку 
 
-"The Application is only supported on windows 8.1, windows server 2012 R2, or Higher"
+> "The Application is only supported on windows 8.1, windows server 2012 R2, or Higher"
 
 ![nodejs-windows7-error.png](/uploads/nodejs-windows7-error.png){:alt="Node.js is only supported on windows 8.1"}
 
-Чтобы установить программу необходимо скачать более раннюю версию Node.js 13.14.0 по [ссылке](https://nodejs.org/download/release/v13.14.0/).
+Чтобы установить программу необходимо скачать более раннюю версию Node.js 13.14.0 по [ссылке](https://nodejs.org/download/release/v13.14.0/){: target="_blank" rel="nofollow"}.
+
+<div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- html blog article adaptive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7700451254687983"
+     data-ad-slot="1629640353"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
 
 После того как скачаете и установите программу проверьте, что Node.js работает. Наберите в командной строке две команды.
 
