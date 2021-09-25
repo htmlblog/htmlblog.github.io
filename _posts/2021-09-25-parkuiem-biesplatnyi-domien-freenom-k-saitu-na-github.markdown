@@ -1,5 +1,5 @@
 ---
-title: Паркуем бесплатный домен Freenom к сайту на GitHub
+title: Как подключить на GitHub бесплатный домен Freenom
 date: 2021-09-25 11:05:00 Z
 categories:
 - useful
@@ -7,7 +7,7 @@ tags:
 - freenom
 - домен
 - github
-header: Как подключить на GitHub бесплатный домен Freenom
+header: Паркуем бесплатный домен Freenom к сайту на GitHub
 description: Если вы решили использовать GitHub как хостинг для своего блога, то можно
   получить бесплатный домен 2-го уровня на Freenom. Как его подключить...
 ---
