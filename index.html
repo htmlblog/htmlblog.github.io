@@ -11,7 +11,7 @@ layout: default
 		<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% endif %}
   <p>
-    <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
+    <span class="date">{{ post.categories }}</span> <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
   </p>
   <br>
 {% endfor %}

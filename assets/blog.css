@@ -29,6 +29,11 @@ h6, .h6 {
     height: auto;
 }
 
+.blog-main .date {
+	color: #ccc;
+    font-size: 13pt;
+}
+
 img.thumb {
 	width: 200px;
     float: left;
@@ -206,7 +211,8 @@ img.thumb {
 }
 .blog-post-meta {
   margin-bottom: 20px;
-  color: #999;
+  color: #ccc;
+  font-size: 13pt;
 }
 
 
