@@ -45,9 +45,9 @@ img.thumb {
     padding: 5px;
 }
 img.thumb:hover {
-    width: 204px;
+    width: 200px;
     border: 1px solid #999;
-    padding: 3px;
+    padding: 0;
 }
 
 .blog-post-tags span {
