@@ -4,6 +4,7 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
+<div class="post-box">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="meta-date-cat">
     <span class="date">Дата: {{ post.date|date:"%d.%m.%Y" }}</span> | <span class="categ">Рубрика: <a href="/{{ post.categories }}/">{{ post.categories }}</a></span>
@@ -14,7 +15,7 @@ layout: default
 		<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% endif %}
   
-  <br>
+</div>
 {% endfor %}
 
 <hr>
