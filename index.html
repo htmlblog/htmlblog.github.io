@@ -6,7 +6,9 @@ layout: default
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% if post.thumb %}
-		<p><img src="{{ post.thumb }}" /></p>
+		<p><img src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 50 }}</p>
+	{% else %}
+		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
 	{% endif %}
   <p>
     <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
