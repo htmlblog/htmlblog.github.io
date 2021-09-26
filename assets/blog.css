@@ -44,6 +44,11 @@ img.thumb {
 	border: 1px solid #f1f1f1;
     padding: 5px;
 }
+img.thumb:hover {
+    width: 204px;
+    border: 1px solid #999;
+    padding: 3px;
+}
 
 .blog-post-tags span {
     display: inline-block;
