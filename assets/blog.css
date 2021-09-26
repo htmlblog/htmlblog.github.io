@@ -45,6 +45,7 @@ img.thumb {
     padding: 5px;
 }
 img.thumb:hover {
+	cursor: pointer;
     width: 200px;
     border: 1px solid #999;
     padding: 0;
