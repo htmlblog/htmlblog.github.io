@@ -6,7 +6,7 @@ layout: default
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% if post.thumb %}
-		<p><img src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 25 }}</p>
+		<p><img class="thumb" src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% else %}
 		<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% endif %}
