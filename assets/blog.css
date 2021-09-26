@@ -29,7 +29,7 @@ h6, .h6 {
     height: auto;
 }
 
-.blog-main .date, .categ a {
+.meta-date-cat, .categ a {
 	color: #ccc;
     font-size: 13pt;
 }

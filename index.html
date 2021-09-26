@@ -5,8 +5,8 @@ layout: default
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>
-    <span class="categ">Рубрика: <a href="/{{ post.categories }}/">{{ post.categories }}</a></span> <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
+  <p class="meta-date-cat">
+    <span class="date">Дата: {{ post.date|date:"%d.%m.%Y" }}</span> | <span class="categ">Рубрика: <a href="/{{ post.categories }}/">{{ post.categories }}</a></span>
   </p>
 	{% if post.thumb %}
 		<p><img class="thumb" src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 25 }}</p>
