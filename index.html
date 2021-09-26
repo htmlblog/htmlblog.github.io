@@ -6,7 +6,7 @@ layout: default
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p>
-    <span class="date"><a href="/{{ post.categories }}/">{{ post.categories }}</a></span> <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
+    <span class="categ">Рубрика: <a href="/{{ post.categories }}/">{{ post.categories }}</a></span> <span class="date">{{ post.date|date:"%d.%m.%Y" }}</span>
   </p>
 	{% if post.thumb %}
 		<p><img class="thumb" src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 25 }}</p>

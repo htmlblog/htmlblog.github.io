@@ -29,9 +29,12 @@ h6, .h6 {
     height: auto;
 }
 
-.blog-main .date {
+.blog-main .date, .categ a {
 	color: #ccc;
     font-size: 13pt;
+}
+.categ a:hover {
+	color: #999;
 }
 
 img.thumb {
