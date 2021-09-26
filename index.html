@@ -9,7 +9,7 @@ layout: default
     <span class="date">Дата: {{ post.date|date:"%d.%m.%Y" }}</span> | <span class="categ">Рубрика: <a href="/{{ post.categories }}/">{{ post.categories }}</a></span>
   </p>
 	{% if post.thumb %}
-		<p><img class="thumb" src="{{ post.thumb }}" />{{ post.content | strip_html | truncatewords: 25 }}</p>
+		<p><a href="{{ post.url }}"><img class="thumb" src="{{ post.thumb }}" /></a>{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% else %}
 		<p>{{ post.content | strip_html | truncatewords: 25 }}</p>
 	{% endif %}
