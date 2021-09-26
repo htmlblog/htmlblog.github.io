@@ -41,7 +41,7 @@ img.thumb {
 	width: 200px;
     float: left;
     margin: 0 15px 10px 0;
-	border: 1px solid #f1f1f1;
+	border: 1px solid #ccc;
     padding: 5px;
 }
 img.thumb:hover {
