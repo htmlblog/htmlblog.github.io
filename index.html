@@ -5,7 +5,8 @@ layout: default
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
 
-{% if paginator.posts.3 %}
+{% if forloop.index == 3 %}
+333
 {% endif %}
 
 <div class="post-box">
