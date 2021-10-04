@@ -267,6 +267,12 @@ img.thumb:hover {
   height:100%;
 }
 
+@media (max-width: 768px) {
+	#disqus_recommendations {
+		display: none;
+	}
+}
+
 @media (max-width: 360px) {
 	.blog-logo {
 		width: 80px;
@@ -278,8 +284,5 @@ img.thumb:hover {
 		display: inline-block;
 		margin-top: 10px;
 		font-size: 18px;
-	}
-	#disqus_recommendations {
-		display: none;
 	}
 }
