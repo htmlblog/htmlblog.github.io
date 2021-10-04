@@ -269,16 +269,15 @@ img.thumb:hover {
 
 @media (max-width: 360px) {
 	.blog-logo {
-		width: 60px;
+		width: 80px;
 	}
 	.blog-title {
-		font-size: 30px;
+		font-size: 50px;
 	}
 	.blog-description {
 		display: inline-block;
 		margin-top: 10px;
-		font-size: 14px;
-		max-width: 260px;
+		font-size: 18px;
 	}
 	#disqus_recommendations {
 		display: none;
