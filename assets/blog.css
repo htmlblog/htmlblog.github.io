@@ -280,4 +280,7 @@ img.thumb:hover {
 		font-size: 14px;
 		max-width: 260px;
 	}
+	.disqus_thread, #disqus_recommendations, .vk_comments {
+		display: none;
+	}
 }
