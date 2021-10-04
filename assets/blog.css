@@ -266,3 +266,18 @@ img.thumb:hover {
   width:100%;
   height:100%;
 }
+
+@media (max-width: 360px) {
+	.blog-logo {
+		width: 60px;
+	}
+	.blog-title {
+		font-size: 30px;
+	}
+	.blog-description {
+		display: inline-block;
+		margin-top: 10px;
+		font-size: 14px;
+		max-width: 260px;
+	}
+}
