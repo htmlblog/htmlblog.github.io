@@ -1,6 +1,6 @@
 ---
 title: 'Как исправить ошибку Error #2006: MySQL Server has gone away'
-date: 2017-03-27 07:03:00 Z
+date: 2022-12-02 16:03:00 Z
 permalink: "/error-2006-mysql-server-has-gone-away"
 categories:
 - useful
