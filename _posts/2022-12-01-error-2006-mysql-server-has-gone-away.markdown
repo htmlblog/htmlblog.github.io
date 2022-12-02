@@ -5,8 +5,6 @@ permalink: "/error-2006-mysql-server-has-gone-away"
 categories:
 - useful
 tags:
-- git
-- github
 - phpmyadmin
 - xampp
 - mysql
