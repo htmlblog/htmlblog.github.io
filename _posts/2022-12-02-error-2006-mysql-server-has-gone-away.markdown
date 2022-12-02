@@ -7,7 +7,8 @@ categories:
 tags:
 - git
 - github
-description: 'Ошибка "Error #2006: MySQL Server has gone away" встречается достаточно часто. Возникает при попытке импорта базы данных большого объема. Что ее исправить...'
+description: 'Ошибка "Error #2006: MySQL Server has gone away" встречается достаточно
+  часто. Возникает при попытке импорта базы данных большого объема. Что ее исправить...'
 header: 'Решение ошибки "Error 2006: MySQL Server has gone away"'
 layout: post
 ---
