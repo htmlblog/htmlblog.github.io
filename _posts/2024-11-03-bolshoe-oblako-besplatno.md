@@ -1,7 +1,7 @@
 ---
 title: Самое большое облако для хранения файлов на 1 Тб
 date: 2024-11-03 07:07:07 Z
-permalink: "/"
+permalink: "/samoe-bolshoe-oblako-besplatno-2024"
 categories:
 - useful
 tags:
