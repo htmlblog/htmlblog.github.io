@@ -1,7 +1,5 @@
 ---
 title: Убытки при продаже сайта за криптовалюту на Telderi
-header: Пожалел, что продал сайт за криптовалюту на Telderi
-layout: post
 date: 2025-04-03 01:07:07 Z
 categories:
 - useful
@@ -9,6 +7,8 @@ tags:
 - usdt
 - btc
 - telderi
+header: Пожалел, что продал сайт за криптовалюту на Telderi
+layout: post
 description: zzzzzzz
 thumb: "/uploads/minusi-telderi.jpg"
 ---
