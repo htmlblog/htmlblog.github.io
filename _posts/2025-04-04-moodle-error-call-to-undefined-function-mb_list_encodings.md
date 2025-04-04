@@ -20,10 +20,12 @@ thumb: "/uploads/moodle-error-call-to-undefined-function-mb_list_encodings.jpg"
 <h3>1. Установка расширения <code inline="">mbstring</code></h3>
 <p>В зависимости от операционной системы, можно использовать следующие команды для установки расширения.</p>
 <h4>Для Debian/Ubuntu:</h4>
+<blockquote>
 	<pre><code class="language-bash">sudo apt-get install php-mbstring
 sudo systemctl restart apache2   # Если используется Apache
 sudo systemctl restart php-fpm   # Если используется PHP-FPM
 </code></pre>
+</blockquote>blockquote>	
 <h4>Для CentOS/RHEL:</h4>
 <blockquote>
 	<pre><code class="language-bash">sudo yum install php-mbstring
