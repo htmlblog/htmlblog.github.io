@@ -13,7 +13,7 @@ header: 'Исправление ошибки Moodle: Call to undefined function 
 layout: post
 thumb: "/uploads/moodle-error-call-to-undefined-function-mb_list_encodings.jpg"
 ---
-
+<p><img src="/uploads/moodle-error-call-to-undefined-function-mb_list_encodings.jpg"></p>
 <p>Ошибка <b><code inline="">Call to undefined function mb_list_encodings()</code></b> в Moodle, как правило, связана с отсутствием расширения <code inline="">mbstring</code> для PHP, которое необходимое для работы с многоязычными строками.</p>
 <p>Чтобы решить эту проблему, нужно убедиться, что на сервере установлено расширение <code inline="">mbstring</code> для PHP. Вот шаги, которые помогут это исправить:</p>
 <h3>1. Установка расширения <code inline="">mbstring</code></h3>
