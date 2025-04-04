@@ -7,7 +7,8 @@ tags:
 - moodle
 - php
 - mbstring
-description: 'Варианты исправления ошибки Moodle: Call to undefined function mb_list_encodings(). Чаще всего ошибка возникает при обновлении Moodle или PHP.'
+description: 'Варианты исправления ошибки Moodle: Call to undefined function mb_list_encodings().
+  Чаще всего ошибка возникает при обновлении Moodle или PHP.'
 header: 'Исправление ошибки Moodle: Call to undefined function mb_list_encodings()'
 layout: post
 thumb: "/uploads/moodle-error-call-to-undefined-function-mb_list_encodings.jpg"
