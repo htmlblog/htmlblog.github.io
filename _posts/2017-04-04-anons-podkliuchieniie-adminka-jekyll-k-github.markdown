@@ -9,6 +9,7 @@ tags:
 - admin
 header: Подключаем админку Jekyll к репозиторию GitHub
 layout: post
+thumb: https://htmlblog.github.io/uploads/jekyll-admin-panel.jpg
 ---
 
 В одном из [прошлых уроков](https://htmlblog.github.io/kak-perenesti-site-jekyll-na-github) мы зарегистрировались на GitHub, создали в нем репозиторий и перенесли туда наш **сайт на Jekyll**.
